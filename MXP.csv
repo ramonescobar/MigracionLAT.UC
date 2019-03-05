@@ -1,0 +1,780 @@
+País de entrada;Número de personas;Países de salida;iso3
+Antigua y Barbuda;6601;Guyana;GUY
+Antigua y Barbuda;484;Dominica;DMA
+Antigua y Barbuda;4069;Jamaica;JAM
+Antigua y Barbuda;2678;Estados Unidos de América;USA
+Antigua y Barbuda;1819;República Dominicana;DOM
+Antigua y Barbuda;1013;Reino Unido;GBR
+Antigua y Barbuda;936;San Vicente y las Granadinas;VCT
+Antigua y Barbuda;734;Trinidad y Tobago;TTO
+Antigua y Barbuda;689;Santa Lucía;LCA
+Antigua y Barbuda;485;San Cristóbal y Nieves;KNA
+Antigua y Barbuda;442;Canadá;CAN
+Antigua y Barbuda;308;Barbados;BRB
+Antigua y Barbuda;248;Siria;SYR
+Antigua y Barbuda;195;Granada;GRD
+Antigua y Barbuda;136;China;CHN
+Antigua y Barbuda;91;Etiopía;ETH
+Antigua y Barbuda;84;Alemania;DEU
+Antigua y Barbuda;80;India;IND
+Antigua y Barbuda;73;Italia;ITA
+Antigua y Barbuda;56;Líbano;LBN
+Antigua y Barbuda;45;Surinám;SUR
+Antigua y Barbuda;45;Sudáfrica;ZAF
+Antigua y Barbuda;41;Francia;FRA
+Antigua y Barbuda;40;Nigeria;NGA
+Antigua y Barbuda;39;Venezuela;VEN
+Antigua y Barbuda;33;Haití;HTI
+Antigua y Barbuda;31;Ghana;GHA
+Antigua y Barbuda;20;Japón;JPN
+Antigua y Barbuda;20;Cuba;CUB
+Antigua y Barbuda;16;Países Bajos;NLD
+Argentina;704503;Paraguay;PRY
+Argentina;434759;Bolivia;BOL
+Argentina;221109;Chile;CHL
+Argentina;202643;Perú;PER
+Argentina;158049;Italia;ITA
+Argentina;137726;Uruguay;URY
+Argentina;101726;España;ESP
+Argentina;50621;Brasil;BRA
+Argentina;14936;China;CHN
+Argentina;9588;Alemania;DEU
+Argentina;8963;Colombia;COL
+Argentina;8465;Francia;FRA
+Argentina;8459;Corea del Sur;KOR
+Argentina;7589;Polonia;POL
+Argentina;5327;Estados Unidos de América;USA
+Argentina;5147;Portugal;PRT
+Argentina;4619;Japón;JPN
+Argentina;4573;Ucrania;UKR
+Argentina;1954;Rusia;RUS
+Argentina;186;República Checa;CZE
+Argentina;1544;Macedônia;MKD
+Argentina;1504;México;MEX
+Argentina;1286;Venezuela;VEN
+Argentina;1167;Siria;SYR
+Argentina;1147;Cuba;CUB
+Argentina;1118;Rumanía;ROU
+Argentina;106;Austria;AUT
+Argentina;1055;Grecia;GRC
+Argentina;1022;Croacia;HRV
+Argentina;990;Ecuador;ECU
+Bahamas;28754;Haití;HTI
+Bahamas;10071;Estados Unidos de América;USA
+Bahamas;7819;Jamaica;JAM
+Bahamas;2077;Reino Unido;GBR
+Bahamas;1633;Canadá;CAN
+Bahamas;1391;Guyana;GUY
+Bahamas;1164;Filipinas;PHL
+Bahamas;623;India;IND
+Bahamas;417;Cuba;CUB
+Bahamas;406;Trinidad y Tobago;TTO
+Bahamas;327;Perú;PER
+Bahamas;319;Suiza;CHE
+Bahamas;303;República Dominicana;DOM
+Bahamas;301;Alemania;DEU
+Bahamas;248;Barbados;BRB
+Bahamas;201;Colombia;COL
+Bahamas;179;China;CHN
+Bahamas;166;Nigeria;NGA
+Bahamas;164;Italia;ITA
+Bahamas;149;Francia;FRA
+Bahamas;139;México;MEX
+Bahamas;126;Brasil;BRA
+Bahamas;115;Argentina;ARG
+Bahamas;115;España;ESP
+Bahamas;108;Sudáfrica;ZAF
+Bahamas;106;Rumanía;ROU
+Bahamas;94;Grecia;GRC
+Bahamas;86;Australia;AUS
+Bahamas;81;Santa Lucía;LCA
+Bahamas;78;Dominica;DMA
+Barbados;6629;Guyana;GUY
+Barbados;313;San Vicente y las Granadinas;VCT
+Barbados;2522;Reino Unido;GBR
+Barbados;2188;Santa Lucía;LCA
+Barbados;1497;Trinidad y Tobago;TTO
+Barbados;1039;Estados Unidos de América;USA
+Barbados;999;Jamaica;JAM
+Barbados;692;Canadá;CAN
+Barbados;465;India;IND
+Barbados;391;Granada;GRD
+Barbados;338;Dominica;DMA
+Barbados;195;Antigua y Barbuda;ATG
+Barbados;109;San Cristóbal y Nieves;KNA
+Barbados;58;Cuba;CUB
+Barbados;49;Bahamas;BHS
+Barbados;47;Surinám;SUR
+Barbados;43;China;CHN
+Barbados;33;Haití;HTI
+Barbados;24;Australia;AUS
+Barbados;22;Belice;BLZ
+Belice;25493;Guatemala;GTM
+Belice;9982;El Salvador;SLV
+Belice;9762;Honduras;HND
+Belice;4429;Estados Unidos de América;USA
+Belice;381;México;MEX
+Belice;2117;China;CHN
+Belice;897;Canadá;CAN
+Belice;536;Jamaica;JAM
+Belice;442;Reino Unido;GBR
+Belice;404;India;IND
+Belice;77;Hong Kong;HKG
+Belice;73;Alemania;DEU
+Belice;58;Líbano;LBN
+Belice;58;Haití;HTI
+Belice;48;Nigeria;NGA
+Bolivia;44436;Argentina;ARG
+Bolivia;26738;Brasil;BRA
+Bolivia;12679;España;ESP
+Bolivia;11743;Perú;PER
+Bolivia;9911;México;MEX
+Bolivia;5096;Estados Unidos de América;USA
+Bolivia;4923;Chile;CHL
+Bolivia;446;Paraguay;PRY
+Bolivia;3085;Colombia;COL
+Bolivia;2104;Alemania;DEU
+Bolivia;1842;Cuba;CUB
+Bolivia;1727;Japón;JPN
+Bolivia;1485;Italia;ITA
+Bolivia;1436;Canadá;CAN
+Bolivia;1287;Francia;FRA
+Bolivia;1173;China;CHN
+Bolivia;1042;Ecuador;ECU
+Bolivia;942;Belice;BLZ
+Bolivia;939;Reino Unido;GBR
+Bolivia;804;Venezuela;VEN
+Bolivia;685;Suiza;CHE
+Bolivia;529;Uruguay;URY
+Bolivia;525;Corea del Sur;KOR
+Bolivia;397;Países Bajos;NLD
+Bolivia;392;Bélgica;BEL
+Bolivia;341;Rusia;RUS
+Bolivia;304;Suecia;SWE
+Bolivia;240;Honduras;HND
+Bolivia;237;Australia;AUS
+Bolivia;226;Polonia;POL
+Brasil;169069;Portugal;PRT
+Brasil;60115;Japón;JPN
+Brasil;48098;Paraguay;PRY
+Brasil;47563;Bolivia;BOL
+Brasil;45541;Italia;ITA
+Brasil;37663;España;ESP
+Brasil;35618;Argentina;ARG
+Brasil;29468;Uruguay;URY
+Brasil;23769;China;CHN
+Brasil;21626;Estados Unidos de América;USA
+Brasil;19902;Alemania;DEU
+Brasil;1891;Chile;CHL
+Brasil;18406;Perú;PER
+Brasil;15116;Líbano;LBN
+Brasil;11713;Francia;FRA
+Brasil;1051;Corea del Sur;KOR
+Brasil;8395;Colombia;COL
+Brasil;7897;Angola;AGO
+Brasil;6061;Reino Unido;GBR
+Brasil;4267;Polonia;POL
+Brasil;4073;Países Bajos;NLD
+Brasil;3818;Egipto;EGY
+Brasil;3657;Suiza;CHE
+Brasil;3515;Venezuela;VEN
+Brasil;3282;México;MEX
+Brasil;2864;Austria;AUT
+Brasil;2544;Cuba;CUB
+Brasil;2526;Siria;SYR
+Brasil;2464;Israel;ISR
+Brasil;2323;Guyana;GUY
+Chile;185731;Perú;PER
+Chile;73285;Argentina;ARG
+Chile;39084;Bolivia;BOL
+Chile;24427;Colombia;COL
+Chile;24427;Ecuador;ECU
+Chile;2129;Sudáfrica;ZAF
+Chile;18986;Brasil;BRA
+Chile;18901;Reino Unido;GBR
+Chile;12665;Alemania;DEU
+Chile;9823;China;CHN
+Chile;9194;España;ESP
+Chile;8386;Estados Unidos de América;USA
+Chile;4302;Venezuela;VEN
+Chile;3934;Italia;ITA
+Chile;3298;Francia;FRA
+Chile;3173;Cuba;CUB
+Chile;2381;Uruguay;URY
+Chile;1922;Canadá;CAN
+Chile;1809;México;MEX
+Chile;1308;Suecia;SWE
+Chile;1275;Paraguay;PRY
+Chile;1113;Corea del Sur;KOR
+Chile;1077;Suiza;CHE
+Chile;1038;Australia;AUS
+Chile;877;Bélgica;BEL
+Chile;848;Japón;JPN
+Chile;731;Palestina;PSE
+Chile;682;Países Bajos;NLD
+Chile;614;Rusia;RUS
+Chile;574;India;IND
+Colombia;49829;Venezuela;VEN
+Colombia;2014;Estados Unidos de América;USA
+Colombia;15212;Ecuador;ECU
+Colombia;7086;España;ESP
+Colombia;5391;Perú;PER
+Colombia;3419;Argentina;ARG
+Colombia;305;México;MEX
+Colombia;3001;Italia;ITA
+Colombia;2523;Alemania;DEU
+Colombia;2496;Brasil;BRA
+Colombia;2208;Panamá;PAN
+Colombia;2203;Francia;FRA
+Colombia;2176;China;CHN
+Colombia;2162;Chile;CHL
+Colombia;1945;Cuba;CUB
+Colombia;1322;Reino Unido;GBR
+Colombia;1253;Líbano;LBN
+Colombia;1128;Costa Rica;CRI
+Colombia;1051;Canadá;CAN
+Colombia;874;Bolivia;BOL
+Colombia;771;Japón;JPN
+Colombia;725;Suiza;CHE
+Colombia;719;Rusia;RUS
+Colombia;611;Nicaragua;NIC
+Colombia;500;Israel;ISR
+Colombia;490;Guatemala;GTM
+Colombia;464;Bélgica;BEL
+Colombia;464;Uruguay;URY
+Colombia;410;República Dominicana;DOM
+Colombia;409;El Salvador;SLV
+Costa Rica;294018;Nicaragua;NIC
+Costa Rica;214;Colombia;COL
+Costa Rica;13984;El Salvador;SLV
+Costa Rica;1275;Estados Unidos de América;USA
+Costa Rica;11493;Panamá;PAN
+Costa Rica;5791;Cuba;CUB
+Costa Rica;3947;Honduras;HND
+Costa Rica;3806;Perú;PER
+Costa Rica;3305;Hong Kong;HKG
+Costa Rica;3118;México;MEX
+Costa Rica;2676;Guatemala;GTM
+Costa Rica;2176;España;ESP
+Costa Rica;2145;Italia;ITA
+Costa Rica;1877;Alemania;DEU
+Costa Rica;1749;Chile;CHL
+Costa Rica;1476;Argentina;ARG
+Costa Rica;1416;Canadá;CAN
+Costa Rica;1389;Venezuela;VEN
+Costa Rica;1279;Ecuador;ECU
+Costa Rica;1104;República Dominicana;DOM
+Costa Rica;878;Francia;FRA
+Costa Rica;676;Suiza;CHE
+Costa Rica;602;Rusia;RUS
+Costa Rica;589;Países Bajos;NLD
+Costa Rica;547;Brasil;BRA
+Costa Rica;522;Reino Unido;GBR
+Costa Rica;371;Bolivia;BOL
+Costa Rica;314;Uruguay;URY
+Costa Rica;303;Polonia;POL
+Costa Rica;293;Bélgica;BEL
+Cuba;4454;España;ESP
+Cuba;1868;Rusia;RUS
+Cuba;858;Haití;HTI
+Cuba;568;Ucrania;UKR
+Cuba;492;Estados Unidos de América;USA
+Cuba;369;México;MEX
+Cuba;313;Alemania;DEU
+Cuba;272;China;CHN
+Cuba;271;Jamaica;JAM
+Cuba;248;Nicaragua;NIC
+Cuba;204;Italia;ITA
+Cuba;179;Venezuela;VEN
+Cuba;168;República Checa;CZE
+Cuba;163;Chile;CHL
+Cuba;154;Argentina;ARG
+Cuba;146;Colombia;COL
+Cuba;136;Francia;FRA
+Cuba;123;Bulgaria;BGR
+Cuba;111;República Dominicana;DOM
+Cuba;101;Albania;ALB
+Cuba;90;Angola;AGO
+Cuba;87;Polonia;POL
+Cuba;78;Perú;PER
+Cuba;75;Panamá;PAN
+Cuba;74;Granada;GRD
+Cuba;64;Hungría;HUN
+Cuba;63;Guatemala;GTM
+Cuba;63;Rumanía;ROU
+Cuba;56;Ecuador;ECU
+Cuba;56;Canadá;CAN
+República Dominicana;336729;Haití;HTI
+República Dominicana;26397;Estados Unidos de América;USA
+República Dominicana;7221;España;ESP
+República Dominicana;5539;Venezuela;VEN
+República Dominicana;3927;Cuba;CUB
+República Dominicana;388;Italia;ITA
+República Dominicana;3687;Colombia;COL
+República Dominicana;2089;Francia;FRA
+República Dominicana;1698;Alemania;DEU
+República Dominicana;1531;México;MEX
+República Dominicana;1517;China;CHN
+República Dominicana;146;Perú;PER
+República Dominicana;1243;Canadá;CAN
+República Dominicana;1095;Argentina;ARG
+República Dominicana;1068;Suiza;CHE
+República Dominicana;774;Panamá;PAN
+República Dominicana;659;Brasil;BRA
+República Dominicana;647;Chile;CHL
+República Dominicana;606;Países Bajos;NLD
+República Dominicana;595;Ecuador;ECU
+República Dominicana;577;Corea del Sur;KOR
+República Dominicana;492;Rusia;RUS
+República Dominicana;492;Reino Unido;GBR
+República Dominicana;438;Guatemala;GTM
+República Dominicana;433;Honduras;HND
+República Dominicana;352;Japón;JPN
+República Dominicana;313;Costa Rica;CRI
+República Dominicana;298;Nicaragua;NIC
+República Dominicana;273;El Salvador;SLV
+República Dominicana;261;Bélgica;BEL
+Ecuador;200539;Colombia;COL
+Ecuador;27601;Estados Unidos de América;USA
+Ecuador;14113;Perú;PER
+Ecuador;11679;Chile;CHL
+Ecuador;9166;Venezuela;VEN
+Ecuador;7695;España;ESP
+Ecuador;5559;Argentina;ARG
+Ecuador;4536;Alemania;DEU
+Ecuador;3959;Italia;ITA
+Ecuador;3083;Cuba;CUB
+Ecuador;3015;China;CHN
+Ecuador;2733;Brasil;BRA
+Ecuador;241;Canadá;CAN
+Ecuador;2331;Francia;FRA
+Ecuador;2325;México;MEX
+Ecuador;2222;Reino Unido;GBR
+Ecuador;202;Suiza;CHE
+Ecuador;1573;Bolivia;BOL
+Ecuador;1539;Rusia;RUS
+Ecuador;992;Panamá;PAN
+Ecuador;986;Uruguay;URY
+Ecuador;965;Costa Rica;CRI
+Ecuador;880;Bélgica;BEL
+Ecuador;853;Países Bajos;NLD
+Ecuador;834;Corea del Sur;KOR
+Ecuador;755;Japón;JPN
+Ecuador;562;Austria;AUT
+Ecuador;537;El Salvador;SLV
+Ecuador;535;Israel;ISR
+Ecuador;499;Corea del Norte;PRK
+El Salvador;11753;Honduras;HND
+El Salvador;8943;Guatemala;GTM
+El Salvador;7874;Nicaragua;NIC
+El Salvador;5432;Estados Unidos de América;USA
+El Salvador;1725;México;MEX
+El Salvador;881;Costa Rica;CRI
+El Salvador;580;Colombia;COL
+El Salvador;537;España;ESP
+El Salvador;453;Panamá;PAN
+El Salvador;341;Belice;BLZ
+El Salvador;283;Italia;ITA
+El Salvador;260;China;CHN
+El Salvador;246;Canadá;CAN
+El Salvador;243;Brasil;BRA
+El Salvador;243;Venezuela;VEN
+El Salvador;235;Perú;PER
+El Salvador;230;Chile;CHL
+El Salvador;228;Alemania;DEU
+El Salvador;217;Argentina;ARG
+El Salvador;215;Francia;FRA
+El Salvador;128;Cuba;CUB
+El Salvador;128;Corea del Sur;KOR
+El Salvador;123;Ecuador;ECU
+El Salvador;90;Reino Unido;GBR
+El Salvador;75;Uruguay;URY
+El Salvador;72;República Dominicana;DOM
+El Salvador;59;Suiza;CHE
+El Salvador;54;Japón;JPN
+El Salvador;53;Bolivia;BOL
+El Salvador;52;Bélgica;BEL
+Granada;2216;Trinidad y Tobago;TTO
+Granada;380;San Vicente y las Granadinas;VCT
+Granada;344;Venezuela;VEN
+Granada;344;Guyana;GUY
+Granada;229;Canadá;CAN
+Granada;179;Barbados;BRB
+Granada;164;Santa Lucía;LCA
+Granada;116;Jamaica;JAM
+Granada;74;Dominica;DMA
+Granada;38;Antigua y Barbuda;ATG
+Granada;30;Bahamas;BHS
+Granada;15;San Cristóbal y Nieves;KNA
+Guatemala;19976;El Salvador;SLV
+Guatemala;1825;México;MEX
+Guatemala;8993;Estados Unidos de América;USA
+Guatemala;8908;Nicaragua;NIC
+Guatemala;8726;Honduras;HND
+Guatemala;1858;Corea del Sur;KOR
+Guatemala;1373;España;ESP
+Guatemala;1209;Costa Rica;CRI
+Guatemala;1202;Colombia;COL
+Guatemala;953;Belice;BLZ
+Guatemala;686;Cuba;CUB
+Guatemala;683;China;CHN
+Guatemala;665;Alemania;DEU
+Guatemala;576;Argentina;ARG
+Guatemala;475;Perú;PER
+Guatemala;413;Canadá;CAN
+Guatemala;382;Italia;ITA
+Guatemala;313;Chile;CHL
+Guatemala;312;Panamá;PAN
+Guatemala;294;Venezuela;VEN
+Guatemala;268;Francia;FRA
+Guatemala;249;Brasil;BRA
+Guatemala;232;Reino Unido;GBR
+Guatemala;173;Ecuador;ECU
+Guatemala;160;Suiza;CHE
+Guatemala;152;Japón;JPN
+Guatemala;145;Uruguay;URY
+Guatemala;145;Países Bajos;NLD
+Guatemala;141;Bolivia;BOL
+Guatemala;136;Israel;ISR
+Guyana;4638;Surinám;SUR
+Guyana;2155;Brasil;BRA
+Guyana;2118;Venezuela;VEN
+Guyana;1266;Estados Unidos de América;USA
+Guyana;1159;China;CHN
+Guyana;888;Trinidad y Tobago;TTO
+Guyana;579;Reino Unido;GBR
+Guyana;403;Canadá;CAN
+Guyana;371;San Vicente y las Granadinas;VCT
+Guyana;297;Jamaica;JAM
+Guyana;270;Barbados;BRB
+Guyana;221;Santa Lucía;LCA
+Guyana;194;Granada;GRD
+Guyana;43;Dominica;DMA
+Guyana;19;Antigua y Barbuda;ATG
+Guyana;15;Bahamas;BHS
+Haiti;533;Venezuela;VEN
+Haiti;511;República Dominicana;DOM
+Haiti;3412;Estados Unidos de América;USA
+Haiti;2752;España;ESP
+Haiti;2605;Italia;ITA
+Haiti;2555;Cuba;CUB
+Haiti;1903;Alemania;DEU
+Haiti;1758;Colombia;COL
+Haiti;1335;Canadá;CAN
+Haiti;988;Argentina;ARG
+Haiti;944;Francia;FRA
+Haiti;800;Suiza;CHE
+Haiti;745;Perú;PER
+Haiti;739;China;CHN
+Haiti;707;Chile;CHL
+Haiti;650;México;MEX
+Haiti;608;Uruguay;URY
+Haiti;582;Costa Rica;CRI
+Haiti;470;Japón;JPN
+Haiti;360;Austria;AUT
+Honduras;8941;El Salvador;SLV
+Honduras;7844;Nicaragua;NIC
+Honduras;6866;Estados Unidos de América;USA
+Honduras;4653;Guatemala;GTM
+Honduras;1582;México;MEX
+Honduras;876;Colombia;COL
+Honduras;869;Costa Rica;CRI
+Honduras;618;Cuba;CUB
+Honduras;601;China;CHN
+Honduras;530;España;ESP
+Honduras;465;Ecuador;ECU
+Honduras;401;Panamá;PAN
+Honduras;387;Perú;PER
+Honduras;368;Belice;BLZ
+Honduras;352;Canadá;CAN
+Honduras;312;Chile;CHL
+Honduras;294;Alemania;DEU
+Honduras;262;Italia;ITA
+Honduras;239;Brasil;BRA
+Honduras;192;Argentina;ARG
+Honduras;155;Palestina;PSE
+Honduras;148;Bolivia;BOL
+Honduras;145;Francia;FRA
+Honduras;140;Japón;JPN
+Honduras;136;República Dominicana;DOM
+Honduras;103;Reino Unido;GBR
+Honduras;103;Venezuela;VEN
+Honduras;91;Países Bajos;NLD
+Honduras;90;Israel;ISR
+Honduras;68;Corea del Sur;KOR
+Jamaica;6237;Estados Unidos de América;USA
+Jamaica;4772;Reino Unido;GBR
+Jamaica;2315;Trinidad y Tobago;TTO
+Jamaica;1803;Cuba;CUB
+Jamaica;1322;Canadá;CAN
+Jamaica;1135;India;IND
+Jamaica;666;Bahamas;BHS
+Jamaica;536;Barbados;BRB
+Jamaica;330;Santa Lucía;LCA
+Jamaica;304;Guatemala;GTM
+Jamaica;225;San Vicente y las Granadinas;VCT
+Jamaica;206;Granada;GRD
+Jamaica;161;Honduras;HND
+Jamaica;154;Antigua y Barbuda;ATG
+Jamaica;137;Dominica;DMA
+Jamaica;132;El Salvador;SLV
+Jamaica;123;Nicaragua;NIC
+Jamaica;99;Costa Rica;CRI
+Jamaica;96;San Cristóbal y Nieves;KNA
+Jamaica;74;Panamá;PAN
+Jamaica;7;Belice;BLZ
+México;899311;Estados Unidos de América;USA
+México;54508;Guatemala;GTM
+México;27608;España;ESP
+México;20658;Colombia;COL
+México;19214;Argentina;ARG
+México;18111;Cuba;CUB
+México;16373;Venezuela;VEN
+México;15417;Honduras;HND
+México;14488;Canadá;CAN
+México;12212;Francia;FRA
+México;10315;El Salvador;SLV
+México;10203;China;CHN
+México;9975;Alemania;DEU
+México;9083;Perú;PER
+México;8593;Corea del Sur;KOR
+México;7389;Chile;CHL
+México;6359;Brasil;BRA
+México;5508;Nicaragua;NIC
+México;5064;Italia;ITA
+México;3447;Reino Unido;GBR
+México;3242;Belice;BLZ
+México;3065;Japón;JPN
+México;3023;Uruguay;URY
+México;2807;Ecuador;ECU
+México;2785;Bolivia;BOL
+México;2532;Costa Rica;CRI
+México;2043;República Dominicana;DOM
+México;1801;Panamá;PAN
+México;1665;Países Bajos;NLD
+México;1603;Rusia;RUS
+Nicaragua;12716;Honduras;HND
+Nicaragua;11011;Costa Rica;CRI
+Nicaragua;3686;Estados Unidos de América;USA
+Nicaragua;2498;El Salvador;SLV
+Nicaragua;1801;Guatemala;GTM
+Nicaragua;961;Cuba;CUB
+Nicaragua;864;México;MEX
+Nicaragua;470;España;ESP
+Nicaragua;456;Colombia;COL
+Nicaragua;414;Panamá;PAN
+Nicaragua;306;Alemania;DEU
+Nicaragua;276;Argentina;ARG
+Nicaragua;272;Países Bajos;NLD
+Nicaragua;257;Canadá;CAN
+Nicaragua;233;Perú;PER
+Nicaragua;198;Rusia;RUS
+Nicaragua;194;Italia;ITA
+Nicaragua;192;Senegal;SEN
+Nicaragua;162;Venezuela;VEN
+Nicaragua;151;Francia;FRA
+Nicaragua;142;China;CHN
+Nicaragua;128;Chile;CHL
+Nicaragua;124;Brasil;BRA
+Nicaragua;121;Antigua y Barbuda;ATG
+Nicaragua;115;Algeria;DZA
+Nicaragua;113;Ecuador;ECU
+Nicaragua;85;Suiza;CHE
+Nicaragua;85;Bahamas;BHS
+Nicaragua;82;Etiopía;ETH
+Nicaragua;79;Ucrania;UKR
+Panama;57051;Colombia;COL
+Panama;19273;China;CHN
+Panama;14497;Estados Unidos de América;USA
+Panama;13335;Nicaragua;NIC
+Panama;10204;Venezuela;VEN
+Panama;8358;República Dominicana;DOM
+Panama;8012;Costa Rica;CRI
+Panama;4989;México;MEX
+Panama;4626;India;IND
+Panama;4429;Perú;PER
+Panama;3822;España;ESP
+Panama;333;El Salvador;SLV
+Panama;2917;Cuba;CUB
+Panama;2759;Ecuador;ECU
+Panama;2633;Argentina;ARG
+Panama;2082;Reino Unido;GBR
+Panama;2067;Brasil;BRA
+Panama;1872;Chile;CHL
+Panama;1866;Canadá;CAN
+Panama;1658;Guatemala;GTM
+Panama;1653;Filipinas;PHL
+Panama;1553;Honduras;HND
+Panama;136;Italia;ITA
+Panama;115;Israel;ISR
+Panama;1099;Alemania;DEU
+Panama;1027;Rusia;RUS
+Panama;1;Francia;FRA
+Panama;786;Uruguay;URY
+Panama;719;Jamaica;JAM
+Panama;559;Haití;HTI
+Paraguay;75626;Brasil;BRA
+Paraguay;58535;Argentina;ARG
+Paraguay;3;Uruguay;URY
+Paraguay;2613;Corea del Sur;KOR
+Paraguay;234;Canadá;CAN
+Paraguay;2163;Chile;CHL
+Paraguay;2034;Japón;JPN
+Paraguay;1702;Alemania;DEU
+Paraguay;1646;México;MEX
+Paraguay;1616;Estados Unidos de América;USA
+Paraguay;1035;Bolivia;BOL
+Paraguay;905;España;ESP
+Paraguay;898;Italia;ITA
+Paraguay;894;Polonia;POL
+Paraguay;800;China;CHN
+Paraguay;629;Francia;FRA
+Paraguay;178;Reino Unido;GBR
+Perú;73285;Argentina;ARG
+Perú;39084;Bolivia;BOL
+Perú;24427;Colombia;COL
+Perú;24427;Ecuador;ECU
+Perú;2129;Sudáfrica;ZAF
+Perú;18986;Brasil;BRA
+Perú;18901;Reino Unido;GBR
+Perú;12665;Alemania;DEU
+Perú;9823;China;CHN
+Perú;9194;España;ESP
+Perú;8386;Estados Unidos de América;USA
+Perú;4302;Venezuela;VEN
+Perú;3934;Italia;ITA
+Perú;3298;Francia;FRA
+Perú;3173;Cuba;CUB
+Perú;2381;Uruguay;URY
+Perú;1922;Canadá;CAN
+Perú;1809;México;MEX
+Perú;1308;Suecia;SWE
+Perú;1275;Paraguay;PRY
+Perú;1113;Corea del Sur;KOR
+Perú;1077;Suiza;CHE
+Perú;1038;Australia;AUS
+Perú;877;Bélgica;BEL
+Perú;848;Japón;JPN
+Perú;731;Palestina;PSE
+Perú;682;Países Bajos;NLD
+Perú;614;Rusia;RUS
+Perú;574;India;IND
+San Cristóbal y Nieves;792;Guyana;GUY
+San Cristóbal y Nieves;411;Antigua y Barbuda;ATG
+San Cristóbal y Nieves;271;Trinidad y Tobago;TTO
+San Cristóbal y Nieves;203;Dominica;DMA
+San Cristóbal y Nieves;171;San Vicente y las Granadinas;VCT
+San Cristóbal y Nieves;143;Jamaica;JAM
+San Cristóbal y Nieves;103;Santa Lucía;LCA
+San Cristóbal y Nieves;97;Barbados;BRB
+San Cristóbal y Nieves;58;Granada;GRD
+San Cristóbal y Nieves;24;Bahamas;BHS
+Santa Lucía;1992;Guyana;GUY
+Santa Lucía;980;Reino Unido;GBR
+Santa Lucía;787;Trinidad y Tobago;TTO
+Santa Lucía;785;Barbados;BRB
+Santa Lucía;669;Estados Unidos de América;USA
+Santa Lucía;439;San Vicente y las Granadinas;VCT
+Santa Lucía;258;Canadá;CAN
+Santa Lucía;231;Dominica;DMA
+Santa Lucía;188;Jamaica;JAM
+Santa Lucía;160;Granada;GRD
+Santa Lucía;119;Antigua y Barbuda;ATG
+Santa Lucía;119;India;IND
+Santa Lucía;74;Alemania;DEU
+Santa Lucía;74;Francia;FRA
+Santa Lucía;63;Venezuela;VEN
+Santa Lucía;49;China;CHN
+Santa Lucía;48;República Dominicana;DOM
+Santa Lucía;44;San Cristóbal y Nieves;KNA
+Santa Lucía;42;Surinám;SUR
+Santa Lucía;28;Panamá;PAN
+Santa Lucía;28;Siria;SYR
+Santa Lucía;26;Japón;JPN
+Santa Lucía;24;Cuba;CUB
+Santa Lucía;24;Ghana;GHA
+Santa Lucía;20;Países Bajos;NLD
+Santa Lucía;17;Pakistán;PAK
+Santa Lucía;16;Italia;ITA
+Santa Lucía;16;Australia;AUS
+Santa Lucía;13;Nigeria;NGA
+Santa Lucía;13;Bahamas;BHS
+San Vicente y las Granadinas;967;Trinidad y Tobago;TTO
+San Vicente y las Granadinas;798;Reino Unido;GBR
+San Vicente y las Granadinas;434;Granada;GRD
+San Vicente y las Granadinas;348;Barbados;BRB
+San Vicente y las Granadinas;339;Estados Unidos de América;USA
+San Vicente y las Granadinas;243;Guyana;GUY
+San Vicente y las Granadinas;237;Santa Lucía;LCA
+San Vicente y las Granadinas;163;Canadá;CAN
+San Vicente y las Granadinas;125;Jamaica;JAM
+San Vicente y las Granadinas;86;Dominica;DMA
+San Vicente y las Granadinas;58;Antigua y Barbuda;ATG
+San Vicente y las Granadinas;39;San Cristóbal y Nieves;KNA
+Surinam;13528;Guyana;GUY
+Surinam;5556;Brasil;BRA
+Surinam;5436;China;CHN
+Surinam;3471;Países Bajos;NLD
+Trinidad y Tobago;9895;Guyana;GUY
+Trinidad y Tobago;8079;Granada;GRD
+Trinidad y Tobago;6472;San Vicente y las Granadinas;VCT
+Trinidad y Tobago;5836;Estados Unidos de América;USA
+Trinidad y Tobago;2383;Reino Unido;GBR
+Trinidad y Tobago;1788;Canadá;CAN
+Trinidad y Tobago;1743;Venezuela;VEN
+Trinidad y Tobago;1506;Jamaica;JAM
+Trinidad y Tobago;1073;Barbados;BRB
+Trinidad y Tobago;965;India;IND
+Trinidad y Tobago;885;Santa Lucía;LCA
+Trinidad y Tobago;871;China;CHN
+Trinidad y Tobago;505;Nigeria;NGA
+Trinidad y Tobago;348;Filipinas;PHL
+Trinidad y Tobago;254;Alemania;DEU
+Trinidad y Tobago;76;Cuba;CUB
+Uruguay;27933;Argentina;ARG
+Uruguay;16393;España;ESP
+Uruguay;12493;Brasil;BRA
+Uruguay;7399;Italia;ITA
+Uruguay;1397;Alemania;DEU
+Uruguay;13;Chile;CHL
+Uruguay;1178;Polonia;POL
+Uruguay;1038;Paraguay;PRY
+Uruguay;630;Estados Unidos de América;USA
+Uruguay;616;Rumanía;ROU
+Uruguay;588;Venezuela;VEN
+Uruguay;565;Portugal;PRT
+Uruguay;538;México;MEX
+Uruguay;475;Francia;FRA
+Uruguay;458;Reino Unido;GBR
+Uruguay;316;Canadá;CAN
+Uruguay;90;Perú;PER
+Venezuela;988483;Colombia;COL
+Venezuela;75744;España;ESP
+Venezuela;55441;Portugal;PRT
+Venezuela;51863;Italia;ITA
+Venezuela;47739;Perú;PER
+Venezuela;37549;Ecuador;ECU
+Venezuela;15875;Siria;SYR
+Venezuela;155;Chile;CHL
+Venezuela;14972;República Dominicana;DOM
+Venezuela;14081;China;CHN
+Venezuela;11601;Cuba;CUB
+Venezuela;11417;Estados Unidos de América;USA
+Venezuela;10098;Argentina;ARG
+Venezuela;9291;Guyana;GUY
+Venezuela;7602;Líbano;LBN
+Venezuela;6119;Brasil;BRA
+Venezuela;4869;Uruguay;URY
+Venezuela;4276;Alemania;DEU
+Venezuela;389;México;MEX
+Venezuela;3835;Francia;FRA
+Venezuela;2851;Trinidad y Tobago;TTO
+Venezuela;2076;Nicaragua;NIC
+Venezuela;1997;Bolivia;BOL
+Venezuela;1929;Haití;HTI
+Venezuela;1831;Reino Unido;GBR
+Venezuela;1643;Arabia Saudita;SAU
+Venezuela;1153;Canadá;CAN
+Venezuela;1144;Costa Rica;CRI
+Venezuela;1043;Hungría;HUN
+Venezuela;103;El Salvador;SLV

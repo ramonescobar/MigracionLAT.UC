@@ -1,0 +1,111 @@
+.titulo_principal {
+  border: 1px solid #2C73F6;
+  color: #2C73F6;
+  text-decoration: underline;
+  width:80%;
+  text-align: center;
+  align: center;
+  align-self: center;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 105%;
+  margin: auto;
+}
+.title{
+  background-color: #F1F3F8;
+}
+.imagenUC{
+  text-align: center;
+  align: center;
+  align-self: center;
+}
+.principal{
+  background-color: #FFFFFF;
+  text-align: center;
+  align: center;
+}
+.Radio-years{
+  align-self:center;
+  color:#0042FF;
+  width:11%;
+  display:inline-block;
+  align-content: center;
+  text-align: center;
+  vertical-align: top;
+}
+
+.map-g{
+  width:48%;
+  height:50%;
+  display:inline-block;
+}
+
+.barmig{
+  width:45%;
+  height:45%;
+  display:inline-block;
+}
+.profile1{
+  width:45%;
+  height:45%;
+  display:inline-block;
+}
+.profile2{
+  width:45%;
+  height:45%;
+  display:inline-block;
+}
+.barras-nm{
+  width:89%;
+  display:inline-block;
+}
+.box{
+  border: 1px solid #0042FF;
+}
+.titulo-perfiles{
+  border: 1px solid #2C73F6;
+  color: #2C73F6;
+  text-decoration: underline;
+  width:80%;
+  text-align: center;
+  align: center;
+  align-self: center;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+}
+.drop-cperfil1{
+  width:37%;
+  style={"display":"inline-block"}
+}
+.drop-cperfil2{
+  width:37%;
+  style={"display":"inline-block"}
+}
+.Perfil1{
+  width:15%
+}
+.Perfil2{
+  width:15%
+}
+.footer{
+  background-color: #F1F3F8;
+}
+
+.Bibliografias{
+    width: 33%;
+    color:#2C73F6;
+    display: inline-block;
+    vertical-align: top;
+}
+.info{
+  width: 33%;
+  color: #2C73F6;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.creadores{
+  width: 33%;
+  color:#2C73F6;
+  display: inline-block;
+  vertical-align: top;
+}

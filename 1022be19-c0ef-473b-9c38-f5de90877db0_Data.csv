@@ -1,0 +1,385 @@
+Country Name;Country Code;Series Name;Series Code;2016 [YR2016]
+Argentina;ARG;GNI (current US$);NY.GNP.MKTP.CD; $533,326,892,168.42 
+Argentina;ARG;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $9,801.09 
+Argentina;ARG;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;-2.18%
+Argentina;ARG;Income share held by highest 20%;SI.DST.05TH.20;47.60%
+Argentina;ARG;Income share held by lowest 20%;SI.DST.FRST.20;5.00%
+Argentina;ARG;Life expectancy at birth, total (years);SP.DYN.LE00.IN;76.58
+Argentina;ARG;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Argentina;ARG;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Argentina;ARG;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;No disponible
+Argentina;ARG;GINI index (World Bank estimate);SI.POV.GINI;42.40%
+Argentina;ARG;Unemployment (total);SL.UEM.TOTL.ZS;8.70%
+Argentina;ARG;Net migration;SM.POP.NETM;No disponible
+Bahamas;BHS;GNI (current US$);NY.GNP.MKTP.CD; $11,525,610,000.00 
+Bahamas;BHS;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $25,665.25 
+Bahamas;BHS;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;-2.42%
+Bahamas;BHS;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Bahamas;BHS;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Bahamas;BHS;Life expectancy at birth, total (years);SP.DYN.LE00.IN;75.68
+Bahamas;BHS;School enrollment, secondary (% net);SE.SEC.NENR;82.10%
+Bahamas;BHS;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Bahamas;BHS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;-0.35%
+Bahamas;BHS;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Bahamas;BHS;Unemployment (total);SL.UEM.TOTL.ZS;12.70%
+Bahamas;BHS;Net migration;SM.POP.NETM;No disponible
+Belize;BLZ;GNI (current US$);NY.GNP.MKTP.CD; $1,711,607,300.00 
+Belize;BLZ;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $4,064.36 
+Belize;BLZ;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;-1.16%
+Belize;BLZ;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Belize;BLZ;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Belize;BLZ;Life expectancy at birth, total (years);SP.DYN.LE00.IN;70.38
+Belize;BLZ;School enrollment, secondary (% net);SE.SEC.NENR;72.22%
+Belize;BLZ;School enrollment, tertiary (% gross);SE.TER.ENRR;24.26%
+Belize;BLZ;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;0.66%
+Belize;BLZ;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Belize;BLZ;Unemployment (total);SL.UEM.TOTL.ZS;7.91%
+Belize;BLZ;Net migration;SM.POP.NETM;No disponible
+Bolivia;BOL;GNI (current US$);NY.GNP.MKTP.CD; $33,320,126,193.92 
+Bolivia;BOL;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $2,421.90 
+Bolivia;BOL;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;5.94%
+Bolivia;BOL;Income share held by highest 20%;SI.DST.05TH.20;49.00%
+Bolivia;BOL;Income share held by lowest 20%;SI.DST.FRST.20;3.90%
+Bolivia;BOL;Life expectancy at birth, total (years);SP.DYN.LE00.IN;69.13
+Bolivia;BOL;School enrollment, secondary (% net);SE.SEC.NENR;77.99%
+Bolivia;BOL;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Bolivia;BOL;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;3.63%
+Bolivia;BOL;GINI index (World Bank estimate);SI.POV.GINI;44.60%
+Bolivia;BOL;Unemployment (total);SL.UEM.TOTL.ZS;3.06%
+Bolivia;BOL;Net migration;SM.POP.NETM;No disponible
+Brazil;BRA;GNI (current US$);NY.GNP.MKTP.CD; $1,758,526,511,894.53 
+Brazil;BRA;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+Brazil;BRA;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+Brazil;BRA;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Brazil;BRA;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Brazil;BRA;Life expectancy at birth, total (years);SP.DYN.LE00.IN;75.51
+Brazil;BRA;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Brazil;BRA;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;8.74%
+Brazil;BRA;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Brazil;BRA;Unemployment (total);SL.UEM.TOTL.ZS;11.61%
+Brazil;BRA;Net migration;SM.POP.NETM;No disponible
+Chile;CHL;GNI (current US$);NY.GNP.MKTP.CD; $240,109,491,880.66 
+Chile;CHL;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $14,404.77 
+Chile;CHL;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;0.43%
+Chile;CHL;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Chile;CHL;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Chile;CHL;Life expectancy at birth, total (years);SP.DYN.LE00.IN;79.52
+Chile;CHL;School enrollment, secondary (% net);SE.SEC.NENR;87.09%
+Chile;CHL;School enrollment, tertiary (% gross);SE.TER.ENRR;90.32%
+Chile;CHL;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;3.79%
+Chile;CHL;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Chile;CHL;Unemployment (total);SL.UEM.TOTL.ZS;6.74%
+Chile;CHL;Net migration;SM.POP.NETM;No disponible
+Colombia;COL;GNI (current US$);NY.GNP.MKTP.CD; $277,349,868,330.59 
+Colombia;COL;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $7,471.44 
+Colombia;COL;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;3.08%
+Colombia;COL;Income share held by highest 20%;SI.DST.05TH.20;55.70%
+Colombia;COL;Income share held by lowest 20%;SI.DST.FRST.20;3.90%
+Colombia;COL;Life expectancy at birth, total (years);SP.DYN.LE00.IN;74.38
+Colombia;COL;School enrollment, secondary (% net);SE.SEC.NENR;78.71%
+Colombia;COL;School enrollment, tertiary (% gross);SE.TER.ENRR;58.72%
+Colombia;COL;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;7.51%
+Colombia;COL;GINI index (World Bank estimate);SI.POV.GINI;50.80%
+Colombia;COL;Unemployment (total);SL.UEM.TOTL.ZS;8.35%
+Colombia;COL;Net migration;SM.POP.NETM;No disponible
+Costa Rica;CRI;GNI (current US$);NY.GNP.MKTP.CD; $54,457,411,161.74 
+Costa Rica;CRI;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $9,143.20 
+Costa Rica;CRI;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;3.92%
+Costa Rica;CRI;Income share held by highest 20%;SI.DST.05TH.20;54.00%
+Costa Rica;CRI;Income share held by lowest 20%;SI.DST.FRST.20;4.20%
+Costa Rica;CRI;Life expectancy at birth, total (years);SP.DYN.LE00.IN;79.83
+Costa Rica;CRI;School enrollment, secondary (% net);SE.SEC.NENR;82.74%
+Costa Rica;CRI;School enrollment, tertiary (% gross);SE.TER.ENRR;53.99%
+Costa Rica;CRI;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;-0.02%
+Costa Rica;CRI;GINI index (World Bank estimate);SI.POV.GINI;48.70%
+Costa Rica;CRI;Unemployment (total);SL.UEM.TOTL.ZS;8.98%
+Costa Rica;CRI;Net migration;SM.POP.NETM;No disponible
+Cuba;CUB;GNI (current US$);NY.GNP.MKTP.CD; No disponible 
+Cuba;CUB;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+Cuba;CUB;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+Cuba;CUB;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Cuba;CUB;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Cuba;CUB;Life expectancy at birth, total (years);SP.DYN.LE00.IN;79.74
+Cuba;CUB;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Cuba;CUB;School enrollment, tertiary (% gross);SE.TER.ENRR;34.06%
+Cuba;CUB;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;No disponible
+Cuba;CUB;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Cuba;CUB;Unemployment (total);SL.UEM.TOTL.ZS;2.49%
+Cuba;CUB;Net migration;SM.POP.NETM;No disponible
+Dominican Republic;DOM;GNI (current US$);NY.GNP.MKTP.CD; $68,147,553,487.56 
+Dominican Republic;DOM;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $6,511.60 
+Dominican Republic;DOM;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;6.15%
+Dominican Republic;DOM;Income share held by highest 20%;SI.DST.05TH.20;51.10%
+Dominican Republic;DOM;Income share held by lowest 20%;SI.DST.FRST.20;4.90%
+Dominican Republic;DOM;Life expectancy at birth, total (years);SP.DYN.LE00.IN;73.86
+Dominican Republic;DOM;School enrollment, secondary (% net);SE.SEC.NENR;66.55%
+Dominican Republic;DOM;School enrollment, tertiary (% gross);SE.TER.ENRR;52.99%
+Dominican Republic;DOM;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;1.59%
+Dominican Republic;DOM;GINI index (World Bank estimate);SI.POV.GINI;45.30%
+Dominican Republic;DOM;Unemployment (total);SL.UEM.TOTL.ZS;5.49%
+Dominican Republic;DOM;Net migration;SM.POP.NETM;No disponible
+Ecuador;ECU;GNI (current US$);NY.GNP.MKTP.CD; $96,763,074,800.00 
+Ecuador;ECU;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $5,095.44 
+Ecuador;ECU;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;-1.71%
+Ecuador;ECU;Income share held by highest 20%;SI.DST.05TH.20;50.50%
+Ecuador;ECU;Income share held by lowest 20%;SI.DST.FRST.20;4.70%
+Ecuador;ECU;Life expectancy at birth, total (years);SP.DYN.LE00.IN;76.33
+Ecuador;ECU;School enrollment, secondary (% net);SE.SEC.NENR;87.16%
+Ecuador;ECU;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Ecuador;ECU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;1.73%
+Ecuador;ECU;GINI index (World Bank estimate);SI.POV.GINI;45.00%
+Ecuador;ECU;Unemployment (total);SL.UEM.TOTL.ZS;4.60%
+Ecuador;ECU;Net migration;SM.POP.NETM;No disponible
+El Salvador;SLV;GNI (current US$);NY.GNP.MKTP.CD; $25,572,070,000.00 
+El Salvador;SLV;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $3,632.60 
+El Salvador;SLV;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;1.83%
+El Salvador;SLV;Income share held by highest 20%;SI.DST.05TH.20;46.40%
+El Salvador;SLV;Income share held by lowest 20%;SI.DST.FRST.20;5.90%
+El Salvador;SLV;Life expectancy at birth, total (years);SP.DYN.LE00.IN;73.51
+El Salvador;SLV;School enrollment, secondary (% net);SE.SEC.NENR;64.26%
+El Salvador;SLV;School enrollment, tertiary (% gross);SE.TER.ENRR;28.03%
+El Salvador;SLV;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;0.60%
+El Salvador;SLV;GINI index (World Bank estimate);SI.POV.GINI;40.00%
+El Salvador;SLV;Unemployment (total);SL.UEM.TOTL.ZS;4.42%
+El Salvador;SLV;Net migration;SM.POP.NETM;No disponible
+Grenada;GRD;GNI (current US$);NY.GNP.MKTP.CD; $1,020,706,666.67 
+Grenada;GRD;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+Grenada;GRD;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+Grenada;GRD;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Grenada;GRD;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Grenada;GRD;Life expectancy at birth, total (years);SP.DYN.LE00.IN;73.66
+Grenada;GRD;School enrollment, secondary (% net);SE.SEC.NENR;86.62%
+Grenada;GRD;School enrollment, tertiary (% gross);SE.TER.ENRR;91.36%
+Grenada;GRD;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;1.65%
+Grenada;GRD;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Grenada;GRD;Unemployment (total);SL.UEM.TOTL.ZS;No disponible
+Grenada;GRD;Net migration;SM.POP.NETM;No disponible
+Guatemala;GTM;GNI (current US$);NY.GNP.MKTP.CD; $67,075,922,630.56 
+Guatemala;GTM;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $3,025.32 
+Guatemala;GTM;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;3.22%
+Guatemala;GTM;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Guatemala;GTM;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Guatemala;GTM;Life expectancy at birth, total (years);SP.DYN.LE00.IN;73.41
+Guatemala;GTM;School enrollment, secondary (% net);SE.SEC.NENR;47.11%
+Guatemala;GTM;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Guatemala;GTM;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;4.45%
+Guatemala;GTM;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Guatemala;GTM;Unemployment (total);SL.UEM.TOTL.ZS;2.83%
+Guatemala;GTM;Net migration;SM.POP.NETM;No disponible
+Guyana;GUY;GNI (current US$);NY.GNP.MKTP.CD; $3,499,384,987.89 
+Guyana;GUY;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+Guyana;GUY;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+Guyana;GUY;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Guyana;GUY;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Guyana;GUY;Life expectancy at birth, total (years);SP.DYN.LE00.IN;66.65
+Guyana;GUY;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Guyana;GUY;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Guyana;GUY;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;0.84%
+Guyana;GUY;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Guyana;GUY;Unemployment (total);SL.UEM.TOTL.ZS;11.76%
+Guyana;GUY;Net migration;SM.POP.NETM;No disponible
+Haiti;HTI;GNI (current US$);NY.GNP.MKTP.CD; $8,065,722,592.88 
+Haiti;HTI;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $741.98 
+Haiti;HTI;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;2.72%
+Haiti;HTI;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Haiti;HTI;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Haiti;HTI;Life expectancy at birth, total (years);SP.DYN.LE00.IN;63.33
+Haiti;HTI;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Haiti;HTI;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Haiti;HTI;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;13.83%
+Haiti;HTI;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Haiti;HTI;Unemployment (total);SL.UEM.TOTL.ZS;14.00%
+Haiti;HTI;Net migration;SM.POP.NETM;No disponible
+Honduras;HND;GNI (current US$);NY.GNP.MKTP.CD; $20,125,703,159.97 
+Honduras;HND;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $1,993.84 
+Honduras;HND;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;3.55%
+Honduras;HND;Income share held by highest 20%;SI.DST.05TH.20;54.20%
+Honduras;HND;Income share held by lowest 20%;SI.DST.FRST.20;3.20%
+Honduras;HND;Life expectancy at birth, total (years);SP.DYN.LE00.IN;73.58
+Honduras;HND;School enrollment, secondary (% net);SE.SEC.NENR;45.43%
+Honduras;HND;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Honduras;HND;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2.72%
+Honduras;HND;GINI index (World Bank estimate);SI.POV.GINI;50.00%
+Honduras;HND;Unemployment (total);SL.UEM.TOTL.ZS;4.67%
+Honduras;HND;Net migration;SM.POP.NETM;No disponible
+Jamaica;JAM;GNI (current US$);NY.GNP.MKTP.CD; $13,463,163,773.13 
+Jamaica;JAM;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $4,588.17 
+Jamaica;JAM;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;0.21%
+Jamaica;JAM;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Jamaica;JAM;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Jamaica;JAM;Life expectancy at birth, total (years);SP.DYN.LE00.IN;75.97
+Jamaica;JAM;School enrollment, secondary (% net);SE.SEC.NENR;72.94%
+Jamaica;JAM;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Jamaica;JAM;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2.35%
+Jamaica;JAM;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Jamaica;JAM;Unemployment (total);SL.UEM.TOTL.ZS;13.19%
+Jamaica;JAM;Net migration;SM.POP.NETM;No disponible
+Mexico;MEX;GNI (current US$);NY.GNP.MKTP.CD; $1,039,965,335,108.58 
+Mexico;MEX;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $9,534.68 
+Mexico;MEX;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;1.64%
+Mexico;MEX;Income share held by highest 20%;SI.DST.05TH.20;50.10%
+Mexico;MEX;Income share held by lowest 20%;SI.DST.FRST.20;5.70%
+Mexico;MEX;Life expectancy at birth, total (years);SP.DYN.LE00.IN;77.12
+Mexico;MEX;School enrollment, secondary (% net);SE.SEC.NENR;77.15%
+Mexico;MEX;School enrollment, tertiary (% gross);SE.TER.ENRR;36.85%
+Mexico;MEX;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2.82%
+Mexico;MEX;GINI index (World Bank estimate);SI.POV.GINI;43.40%
+Mexico;MEX;Unemployment (total);SL.UEM.TOTL.ZS;3.88%
+Mexico;MEX;Net migration;SM.POP.NETM;No disponible
+Nicaragua;NIC;GNI (current US$);NY.GNP.MKTP.CD; $13,218,489,517.67 
+Nicaragua;NIC;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $1,949.52 
+Nicaragua;NIC;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;3.85%
+Nicaragua;NIC;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Nicaragua;NIC;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Nicaragua;NIC;Life expectancy at birth, total (years);SP.DYN.LE00.IN;75.40
+Nicaragua;NIC;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Nicaragua;NIC;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Nicaragua;NIC;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;3.52%
+Nicaragua;NIC;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Nicaragua;NIC;Unemployment (total);SL.UEM.TOTL.ZS;4.45%
+Nicaragua;NIC;Net migration;SM.POP.NETM;No disponible
+Panama;PAN;GNI (current US$);NY.GNP.MKTP.CD; $50,325,999,100.00 
+Panama;PAN;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $9,574.80 
+Panama;PAN;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;3.46%
+Panama;PAN;Income share held by highest 20%;SI.DST.05TH.20;54.80%
+Panama;PAN;Income share held by lowest 20%;SI.DST.FRST.20;3.30%
+Panama;PAN;Life expectancy at birth, total (years);SP.DYN.LE00.IN;78.00
+Panama;PAN;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Panama;PAN;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Panama;PAN;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;0.74%
+Panama;PAN;GINI index (World Bank estimate);SI.POV.GINI;50.40%
+Panama;PAN;Unemployment (total);SL.UEM.TOTL.ZS;4.35%
+Panama;PAN;Net migration;SM.POP.NETM;No disponible
+Paraguay;PRY;GNI (current US$);NY.GNP.MKTP.CD; $25,952,346,408.65 
+Paraguay;PRY;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $3,724.87 
+Paraguay;PRY;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;4.16%
+Paraguay;PRY;Income share held by highest 20%;SI.DST.05TH.20;53.10%
+Paraguay;PRY;Income share held by lowest 20%;SI.DST.FRST.20;4.50%
+Paraguay;PRY;Life expectancy at birth, total (years);SP.DYN.LE00.IN;73.12
+Paraguay;PRY;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Paraguay;PRY;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Paraguay;PRY;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;4.09%
+Paraguay;PRY;GINI index (World Bank estimate);SI.POV.GINI;47.90%
+Paraguay;PRY;Unemployment (total);SL.UEM.TOTL.ZS;5.25%
+Paraguay;PRY;Net migration;SM.POP.NETM;No disponible
+Peru;PER;GNI (current US$);NY.GNP.MKTP.CD; $183,682,261,266.33 
+Peru;PER;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $5,853.15 
+Peru;PER;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;3.17%
+Peru;PER;Income share held by highest 20%;SI.DST.05TH.20;48.90%
+Peru;PER;Income share held by lowest 20%;SI.DST.FRST.20;4.60%
+Peru;PER;Life expectancy at birth, total (years);SP.DYN.LE00.IN;74.98
+Peru;PER;School enrollment, secondary (% net);SE.SEC.NENR;79.60%
+Peru;PER;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Peru;PER;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;3.60%
+Peru;PER;GINI index (World Bank estimate);SI.POV.GINI;43.80%
+Peru;PER;Unemployment (total);SL.UEM.TOTL.ZS;3.53%
+Peru;PER;Net migration;SM.POP.NETM;No disponible
+Puerto Rico;PRI;GNI (current US$);NY.GNP.MKTP.CD; $70,134,500,000.00 
+Puerto Rico;PRI;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $17,280.52 
+Puerto Rico;PRI;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;-9.10%
+Puerto Rico;PRI;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Puerto Rico;PRI;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Puerto Rico;PRI;Life expectancy at birth, total (years);SP.DYN.LE00.IN;79.79
+Puerto Rico;PRI;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Puerto Rico;PRI;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Puerto Rico;PRI;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;No disponible
+Puerto Rico;PRI;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Puerto Rico;PRI;Unemployment (total);SL.UEM.TOTL.ZS;11.78%
+Puerto Rico;PRI;Net migration;SM.POP.NETM;No disponible
+St. Kitts and Nevis;KNA;GNI (current US$);NY.GNP.MKTP.CD; $884,225,000.00 
+St. Kitts and Nevis;KNA;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+St. Kitts and Nevis;KNA;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+St. Kitts and Nevis;KNA;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+St. Kitts and Nevis;KNA;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+St. Kitts and Nevis;KNA;Life expectancy at birth, total (years);SP.DYN.LE00.IN;No disponible
+St. Kitts and Nevis;KNA;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+St. Kitts and Nevis;KNA;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+St. Kitts and Nevis;KNA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;-0.69%
+St. Kitts and Nevis;KNA;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+St. Kitts and Nevis;KNA;Unemployment (total);SL.UEM.TOTL.ZS;No disponible
+St. Kitts and Nevis;KNA;Net migration;SM.POP.NETM;No disponible
+St. Lucia;LCA;GNI (current US$);NY.GNP.MKTP.CD; $1,548,917,703.70 
+St. Lucia;LCA;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+St. Lucia;LCA;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+St. Lucia;LCA;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+St. Lucia;LCA;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+St. Lucia;LCA;Life expectancy at birth, total (years);SP.DYN.LE00.IN;75.50
+St. Lucia;LCA;School enrollment, secondary (% net);SE.SEC.NENR;77.99%
+St. Lucia;LCA;School enrollment, tertiary (% gross);SE.TER.ENRR;19.20%
+St. Lucia;LCA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;-3.09%
+St. Lucia;LCA;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+St. Lucia;LCA;Unemployment (total);SL.UEM.TOTL.ZS;21.26%
+St. Lucia;LCA;Net migration;SM.POP.NETM;No disponible
+St. Martin (French part);MAF;GNI (current US$);NY.GNP.MKTP.CD; No disponible 
+St. Martin (French part);MAF;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+St. Martin (French part);MAF;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+St. Martin (French part);MAF;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+St. Martin (French part);MAF;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+St. Martin (French part);MAF;Life expectancy at birth, total (years);SP.DYN.LE00.IN;79.62
+St. Martin (French part);MAF;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+St. Martin (French part);MAF;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+St. Martin (French part);MAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;No disponible
+St. Martin (French part);MAF;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+St. Martin (French part);MAF;Unemployment (total);SL.UEM.TOTL.ZS;No disponible
+St. Martin (French part);MAF;Net migration;SM.POP.NETM;No disponible
+St. Vincent and the Grenadines;VCT;GNI (current US$);NY.GNP.MKTP.CD; $763,289,222.22 
+St. Vincent and the Grenadines;VCT;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+St. Vincent and the Grenadines;VCT;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+St. Vincent and the Grenadines;VCT;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+St. Vincent and the Grenadines;VCT;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+St. Vincent and the Grenadines;VCT;Life expectancy at birth, total (years);SP.DYN.LE00.IN;73.18
+St. Vincent and the Grenadines;VCT;School enrollment, secondary (% net);SE.SEC.NENR;89.93%
+St. Vincent and the Grenadines;VCT;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+St. Vincent and the Grenadines;VCT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;-0.15%
+St. Vincent and the Grenadines;VCT;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+St. Vincent and the Grenadines;VCT;Unemployment (total);SL.UEM.TOTL.ZS;18.21%
+St. Vincent and the Grenadines;VCT;Net migration;SM.POP.NETM;No disponible
+Suriname;SUR;GNI (current US$);NY.GNP.MKTP.CD; $3,167,325,321.90 
+Suriname;SUR;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+Suriname;SUR;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+Suriname;SUR;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Suriname;SUR;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Suriname;SUR;Life expectancy at birth, total (years);SP.DYN.LE00.IN;71.41
+Suriname;SUR;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Suriname;SUR;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Suriname;SUR;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;55.48%
+Suriname;SUR;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Suriname;SUR;Unemployment (total);SL.UEM.TOTL.ZS;8.18%
+Suriname;SUR;Net migration;SM.POP.NETM;No disponible
+Trinidad and Tobago;TTO;GNI (current US$);NY.GNP.MKTP.CD; $22,013,687,604.32 
+Trinidad and Tobago;TTO;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+Trinidad and Tobago;TTO;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+Trinidad and Tobago;TTO;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Trinidad and Tobago;TTO;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Trinidad and Tobago;TTO;Life expectancy at birth, total (years);SP.DYN.LE00.IN;70.67
+Trinidad and Tobago;TTO;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Trinidad and Tobago;TTO;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Trinidad and Tobago;TTO;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;3.07%
+Trinidad and Tobago;TTO;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Trinidad and Tobago;TTO;Unemployment (total);SL.UEM.TOTL.ZS;4.37%
+Trinidad and Tobago;TTO;Net migration;SM.POP.NETM;No disponible
+Uruguay;URY;GNI (current US$);NY.GNP.MKTP.CD; $51,131,503,653.53 
+Uruguay;URY;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; $13,627.97 
+Uruguay;URY;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;1.53%
+Uruguay;URY;Income share held by highest 20%;SI.DST.05TH.20;45.90%
+Uruguay;URY;Income share held by lowest 20%;SI.DST.FRST.20;5.80%
+Uruguay;URY;Life expectancy at birth, total (years);SP.DYN.LE00.IN;77.49
+Uruguay;URY;School enrollment, secondary (% net);SE.SEC.NENR;No disponible
+Uruguay;URY;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Uruguay;URY;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;9.64%
+Uruguay;URY;GINI index (World Bank estimate);SI.POV.GINI;39.70%
+Uruguay;URY;Unemployment (total);SL.UEM.TOTL.ZS;7.84%
+Uruguay;URY;Net migration;SM.POP.NETM;No disponible
+Venezuela;VEN;GNI (current US$);NY.GNP.MKTP.CD; No disponible 
+Venezuela;VEN;GNI per capita (constant 2010 US$);NY.GNP.PCAP.KD; No disponible 
+Venezuela;VEN;GNI growth (annual %);NY.GNP.MKTP.KD.ZG;No disponible
+Venezuela;VEN;Income share held by highest 20%;SI.DST.05TH.20;No disponible
+Venezuela;VEN;Income share held by lowest 20%;SI.DST.FRST.20;No disponible
+Venezuela;VEN;Life expectancy at birth, total (years);SP.DYN.LE00.IN;74.55
+Venezuela;VEN;School enrollment, secondary (% net);SE.SEC.NENR;71.40%
+Venezuela;VEN;School enrollment, tertiary (% gross);SE.TER.ENRR;No disponible
+Venezuela;VEN;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;254.95%
+Venezuela;VEN;GINI index (World Bank estimate);SI.POV.GINI;No disponible
+Venezuela;VEN;Unemployment (total);SL.UEM.TOTL.ZS;7.15%
+Venezuela;VEN;Net migration;SM.POP.NETM;No disponible
