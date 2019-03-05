@@ -13,7 +13,7 @@ Conocer cómo los inmigrantes en Chile se desenvuelven en el aspecto económico,
 
 ## Replica
 Esta aplicación es de uso libre y gratuito basado en la [licencia MIT](https://github.com/calvarad/p-g1/blob/master/LICENSE.txt).
-Si desea replicar este proyecto, favor en su cmd o Anaconda prompt escriba `git clone https://github.com/calvarad/p-g1.git`. 
+Si desea replicar este proyecto, favor en su cmd o Anaconda prompt escriba `https://github.com/ramonescobar/MigracionLAT.UC.git`. 
 Después, instale los paquetes necesarios presentes en requierements.txt escribiendo en el cmd o Anaconda prompt `pip install > requirements.txt`
 Luego, utilice las bases de datos contenidas [aquí](https://www.dropbox.com/sh/6y8ec7p3cz0uxme/AACoT7PymDcHXj6iHtiTf6fPa?dl=0), le recomendamos que a la hora de descargarlas las extraiga dentro de la carpeta donde tenga clonado el repositorio.
 
