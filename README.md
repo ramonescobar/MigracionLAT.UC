@@ -32,8 +32,6 @@ Luego utilizamos los paquetes plotly y dash (basados en el microframework Flask 
 * Organizar los perfiles de país
 * Crear un entorno interactivo y amigable para el usuario
 
-### Coming soon: Deployment 
 
-Despliegue de aplicación[aquí](https://migracion-al.herokuapp.com)
 
 
