@@ -20,7 +20,8 @@ colors = {
     'background': '#111111',
     'text': '#7FDBFF'
 }
-#server=app.server
+
+
 #Importando bases de datos
 df=pd.read_csv('MXP.csv', sep=";")
 df2 =pd.read_csv("Net_Migration.csv", sep=';')
