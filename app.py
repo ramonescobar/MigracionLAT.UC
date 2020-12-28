@@ -28,6 +28,7 @@ df3=pd.read_csv('1022be19-c0ef-473b-9c38-f5de90877db0_Data.csv', sep=';')
 
 #App
 app=dash.Dash(__name__)
+server=app.server
 
 Cols=list(df2)
 Cols2=list(df3)
