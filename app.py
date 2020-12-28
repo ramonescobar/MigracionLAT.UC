@@ -122,7 +122,7 @@ app.layout=html.Div(
                     html.Br(),
                     html.Br(),
                     html.H3("Año de análisis:"),
-                    dcc.RadioItems(
+                    dcc.Dropdown(
                         id="Drop_years",
                         options=[{"label":Cols[i],"value":Cols[i]} for i in range(4, len(Cols))],
                         value="2017 [YR2017]"),
@@ -155,7 +155,7 @@ dcc.Markdown(
                 className='info',
                 children=[
                 dcc.Markdown('''
-## Disponible en:
+## Disponible originalmente en:
 ### [Github](https://github.com/calvarad/p-g1)
                     ''')
                 ]
