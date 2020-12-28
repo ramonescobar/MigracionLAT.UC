@@ -275,4 +275,4 @@ def gen_table_2(countryp2):
     return figt2
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8080)
+    app.run_server()
